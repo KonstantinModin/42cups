@@ -1,0 +1,40 @@
+.product {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    background-color: #F2F2F2;
+    padding: 20px;
+    width: calc(50% - 70px);
+    height: 500px;
+    margin: 0 15px 15px 15px;
+}
+
+.data {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.data h4 span {
+    font-weight: 400;
+}
+
+.number {
+    display: flex;
+}
+
+.btn {
+    cursor: pointer;
+    width: 30px;
+    height: 30px;
+    color: #fff;
+    text-align: center;
+}
+
+.btn:first-child {
+    margin-right: 10px;
+}
+
+.btn:last-child {
+    margin-left: 10px;
+}

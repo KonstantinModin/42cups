@@ -1,0 +1,80 @@
+.header {
+  font-family: "Trebuchet-MS", sans-serif;
+  display: flex;
+  width: 100%;
+  height: 100px;
+  background-color: #fff;
+  color: #000;
+  font-weight: 600;
+  box-shadow: 0 14px 19px rgb(0 0 0 / 20%);
+  position: sticky;
+  top: 0;
+}
+
+.logoBlock {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+  height: 100%;
+}
+
+.logoBlock .logo {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.navigationBlock {
+  display: flex;
+  width: 60%;
+  height: 100%;
+}
+
+.navItem {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 25%;
+  height: 100%;
+  color: #000;
+  position: relative;
+}
+
+.navItem p {
+  z-index: 2;
+}
+
+.navItem:hover {
+  color: #fff;
+}
+
+.navItem:hover .blot {
+  z-index: 1;
+}
+
+.cartBlock {
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 20%;
+  height: 100%;
+  color: #000;
+}
+
+.header a {
+  text-decoration: none;
+}
+
+.blot {
+  position: absolute;
+  z-index: -1;
+}
+
+.info {
+  margin-left: 10px;
+  font-weight: 400;
+}

@@ -1,0 +1,112 @@
+[
+    {
+      "price": 299,
+      "name": "БРАЗИЛИЯ СЕРРАДО",
+      "number": 0,
+      "description": "Сбалансированный вкус с нотами жареных орехов, шоколада и карамели",
+      "id": "0",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/espresso-mono/brazil-cerrado-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия"]
+    },
+    {
+      "price": 259,
+      "name": "НАТТИ",
+      "number": 0,
+      "description": "Плотный кофе со вкусом жареных орехов, печенья и нуги",
+      "id": "1",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/milk/espresso-nutty-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия"]
+    },
+    {
+      "price": 359,
+      "name": "ЭФИОПИЯ ИРГАЧЕФФ НАТ",
+      "number": 0,
+      "description": "Сладкий вкус с цветочными нотами, спелыми темными ягодами, молочным шоколадом и кислотностью грейпфрута",
+      "id": "2",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/espresso-mono/ethiopia-irgacheff-nat-025.png",
+      "weight": "250г",
+      "country": ["Все", "Эфиопия"]
+    },
+    {
+      "price": 359,
+      "name": "БЛЭК КЭНДИ",
+      "number": 0,
+      "description": "Насыщенный кофе с ярко выраженной горечью и нотами горького шоколада и специй, практически без кислотности",
+      "id": "3",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/milk/black-candy-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия", "Колумбия"]
+    },
+    {
+      "price": 329,
+      "name": "БЭРРИ",
+      "number": 0,
+      "description": "Вкус с нотами ореховой пасты, темных ягод и печенья. Низкая кислотность и высокая сладость",
+      "id": "4",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/milk/250_berri_milk.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия", "Эфиопия"]
+    },
+    {
+      "price": 359,
+      "name": "БРАЗИЛИЯ МОЖИАНА",
+      "number": 0,
+      "description": "Сбалансированный вкус с нотами фундука, какао и сухофруктов",
+      "id": "5",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/espresso-mono/brazil-mogiana-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия"]
+    },
+    {
+      "price": 349,
+      "name": "ВЕРОНА",
+      "number": 0,
+      "description": "Плотное тело, вкус с нотами горького шоколада, специй, сухофруктов и сладкого печенья",
+      "id": "6",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/milk/250_verona_milk.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия", "Колумбия", "Гватемала"]
+    },
+    {
+      "price": 299,
+      "name": "БРАЗИЛИЯ СУЛЬ-ДЕ-МИНАС",
+      "number": 0,
+      "description": "Сбалансированный вкус с нотами арахиса, пудры какао и цедры лимона",
+      "id": "7",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/alt-mono/braziliya-sul-de-minas-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия"]
+    },
+    {
+      "price": 299,
+      "name": "БРАУН КЭНДИ",
+      "number": 0,
+      "description": "Насыщенный кофе с нотами горького шоколада, специй и жареных орехов, практически без кислотности",
+      "id": "8",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/milk/brown-candy-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия", "Колумбия"]
+    },
+    {
+      "price": 319,
+      "name": "БРАЗИЛИЯ ПАРАИЗО",
+      "number": 0,
+      "description": "Сладкий кофе с нотами апельсиновой цедры, цукатов и ореховой нуги",
+      "id": "9",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/espresso-microlot/espresso-brazil-paraiso-025.png",
+      "weight": "250г",
+      "country": ["Все", "Бразилия"]
+    },
+    {
+      "price": 379,
+      "name": "БАРИСТА",
+      "number": 0,
+      "description": "Яркий вкус с нотами молочного шоколада и цветочного меда с цитрусовой кислотностью",
+      "id": "10",
+      "image": "https://shop.tastycoffee.ru/files/shares/data/_newpack6/espresso-mono/barista-025.png",
+      "weight": "250г",
+      "country": ["Все", "Гватемала", "Эфиопия", "Бразилия"]
+    }
+]

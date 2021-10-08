@@ -1,0 +1,15 @@
+.sort {
+    width: 30%;
+}
+
+
+.country {
+    display: flex;
+    align-items: center;
+}
+
+.country input {
+    width: 20px;
+    height: 20px;
+    margin-right: 20px;
+}
