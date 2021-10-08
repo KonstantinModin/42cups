@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/coffee-market/static/css/main.d4c15546.chunk.css",
+    "main.js": "/coffee-market/static/js/main.f62cb382.chunk.js",
+    "main.js.map": "/coffee-market/static/js/main.f62cb382.chunk.js.map",
+    "runtime-main.js": "/coffee-market/static/js/runtime-main.c655ea6d.js",
+    "runtime-main.js.map": "/coffee-market/static/js/runtime-main.c655ea6d.js.map",
+    "static/js/2.732f0425.chunk.js": "/coffee-market/static/js/2.732f0425.chunk.js",
+    "static/js/2.732f0425.chunk.js.map": "/coffee-market/static/js/2.732f0425.chunk.js.map",
+    "index.html": "/coffee-market/index.html",
+    "static/css/main.d4c15546.chunk.css.map": "/coffee-market/static/css/main.d4c15546.chunk.css.map",
+    "static/js/2.732f0425.chunk.js.LICENSE.txt": "/coffee-market/static/js/2.732f0425.chunk.js.LICENSE.txt",
+    "static/media/about.27cbbb3a.jpg": "/coffee-market/static/media/about.27cbbb3a.jpg",
+    "static/media/bag.c89b0c99.png": "/coffee-market/static/media/bag.c89b0c99.png",
+    "static/media/blot.1648efb1.png": "/coffee-market/static/media/blot.1648efb1.png",
+    "static/media/franchise.e0cee22e.jpg": "/coffee-market/static/media/franchise.e0cee22e.jpg",
+    "static/media/menu.9a219ddd.jpg": "/coffee-market/static/media/menu.9a219ddd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c655ea6d.js",
+    "static/js/2.732f0425.chunk.js",
+    "static/css/main.d4c15546.chunk.css",
+    "static/js/main.f62cb382.chunk.js"
+  ]
+}
